@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Product Wizard
+
+This is a wizard project to give recomendations, before LLMs even existed, it was able to get a recomendation based on a score system based on JSON descriptors.
 
 ## Getting Started
 
